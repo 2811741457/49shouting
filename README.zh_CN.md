@@ -114,7 +114,7 @@ docker run \
 * **首页-积分查询-游戏任务**
 
 ```sh
-节点index.js unicom --user 15587353539 --passwor 11 **** 11 --appid f7af **** ebb
+节点index.js unicom --user 
 ```
 
 ### docker部署
