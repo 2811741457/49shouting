@@ -113,7 +113,7 @@ docker run \
 * **首页-积分查询-游戏任务**
 
 ```sh
-node index.js unicom --user 131*******12 --password 11****11 --appid f7af****ebb
+node index.js unicom --user 15587353539 --password 11****11 --appid f7af****ebb
 ```
 
 ### docker部署
