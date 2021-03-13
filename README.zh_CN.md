@@ -141,7 +141,7 @@ docker run \
 ### crontab 任务示例
 每隔10分钟尝试运行可运行的脚本子任务
 ```txt
-*/10 * * * * /bin/node /workspace/AutoSignMachine/index.js unicom --user 1******5 --password 7****** --appid 1************9
+\%10 * * * * /bin/node /workspace/AutoSignMachine/index.js unicom --user 1******5 --password 7****** --appid 1************9
 ```
 
 ### 多用户配置
@@ -172,4 +172,4 @@ docker run \
 ```
 
 ### GitHub Actions 运行问题
-暂未处理GitHub Actions支持
+暂未处理GitHub Actions支持 
